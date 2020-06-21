@@ -10,7 +10,7 @@ public class Main {
 	    dataSource.addObserver(spreadSheet01);
 	    dataSource.addObserver(chart);
 
-	    dataSource.setValue(1);
+	    dataSource.setValue(2);
 
     }
 }
