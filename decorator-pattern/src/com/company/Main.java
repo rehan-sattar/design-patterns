@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.exercise.Editor;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -13,6 +15,8 @@ public class Main {
                         )
                 )
         );
+        Editor editor = new Editor();
+        editor.openProject("...");
     }
 
      public static void storeCreditCard(Stream stream) {
