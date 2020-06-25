@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7b377a-2d65-4142-a330-0baf898ef957" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/decorator-pattern/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/decorator-pattern/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d7b377a-2d65-4142-a330-0baf898ef957" name="Default Changelist" comment="" />
+    <list id="d0e9b031-1ada-48ce-a035-3773239721cd" name="dp: complete exercise" comment="" />
+    <list id="540a80ff-4a3a-4b9a-a05e-a898e1e64fd7" name="Revert &quot;dp: complete exercise&quot;" comment="Revert &quot;dp: complete exercise&quot;&#10;&#10;This reverts commit 53215cd8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,12 +77,24 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0d7b377a-2d65-4142-a330-0baf898ef957" name="Default Changelist" comment="" />
+      <changelist id="d0e9b031-1ada-48ce-a035-3773239721cd" name="dp: complete exercise" comment="" />
       <created>1593079108427</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593079108427</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="801" y="260" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1593086379119">
@@ -76,22 +105,30 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="581" y="203" width="815" height="707" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593079610744" />
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1593086351122">
+    <state x="535" y="82" width="907" height="949" key="CommitChangelistDialog2" timestamp="1593086578076">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593086351122" />
-    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1593086351122">
+    <state x="535" y="82" width="907" height="949" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1593086578076" />
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1593086821938">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593086351122" />
-    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1593086351121">
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821938" />
+    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1593086821937">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593086351121" />
-    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1593086351122">
+    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821937" />
+    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1593086821937">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593086351122" />
+    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821937" />
+    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1593086821937">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821937" />
+    <state x="837" y="468" width="303" height="176" key="VCS.ChangelistChooser" timestamp="1593086588593">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="837" y="468" width="303" height="176" key="VCS.ChangelistChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1593086588593" />
     <state x="750" y="299" width="477" height="514" key="refactoring.ChangeSignatureDialog" timestamp="1593080287892">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
