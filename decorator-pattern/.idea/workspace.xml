@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7b377a-2d65-4142-a330-0baf898ef957" name="Default Changelist" comment="" />
+    <list default="true" id="0d7b377a-2d65-4142-a330-0baf898ef957" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="d0e9b031-1ada-48ce-a035-3773239721cd" name="dp: complete exercise" comment="" />
     <list id="540a80ff-4a3a-4b9a-a05e-a898e1e64fd7" name="Revert &quot;dp: complete exercise&quot;" comment="Revert &quot;dp: complete exercise&quot;&#10;&#10;This reverts commit 53215cd8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +49,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/exercise" />
   </component>
   <component name="RecentsManager">
@@ -95,6 +99,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="801" y="260" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1593086379119">
@@ -109,26 +114,30 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="535" y="82" width="907" height="949" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1593086578076" />
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1593086821938">
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1593087601974">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821938" />
-    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1593086821937">
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593087601974" />
+    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1593087601974">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821937" />
-    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1593086821937">
+    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593087601974" />
+    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1593087601974">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821937" />
-    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1593086821937">
+    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593087601974" />
+    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1593087601974">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593086821937" />
+    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593087601974" />
     <state x="837" y="468" width="303" height="176" key="VCS.ChangelistChooser" timestamp="1593086588593">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="837" y="468" width="303" height="176" key="VCS.ChangelistChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1593086588593" />
+    <state x="302" y="155" width="1372" height="803" key="new project wizard" timestamp="1593087601711">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="155" width="1372" height="803" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1593087601711" />
     <state x="750" y="299" width="477" height="514" key="refactoring.ChangeSignatureDialog" timestamp="1593080287892">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
